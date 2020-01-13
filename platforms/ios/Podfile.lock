@@ -1,0 +1,16 @@
+PODS:
+  - OneSignal (2.12.3)
+
+DEPENDENCIES:
+  - OneSignal (= 2.12.3)
+
+SPEC REPOS:
+  trunk:
+    - OneSignal
+
+SPEC CHECKSUMS:
+  OneSignal: 30b6e03a1f14169c4313e301a7b7bdf467b5a575
+
+PODFILE CHECKSUM: e71855ec5ebd08ea1308363f468d098ba2a144d8
+
+COCOAPODS: 1.8.4
